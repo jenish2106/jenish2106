@@ -24,7 +24,7 @@ public class Jenish {
 }
 ```
 
-- 🔭 Currently learning **Spring Security**, **JPA / Hibernate** and **Spring AI**
+- 🔭 Currently learning **Spring Security** and **Spring AI**
 - 🌱 Exploring backend architecture and REST API design
 - ⚡ Passionate about clean code and solving real-world problems
 - 🎯 Goal: become a strong backend engineer
